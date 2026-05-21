@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake — DSA Edition 🐍
 
 A Snake game built in **C++17 + SFML**, written from the perspective of a
@@ -105,3 +106,4 @@ If missing, the game auto-falls back to a system font (Arial / DejaVu Sans).
 - **Speed ramp** — every food eaten shaves ~23 ms off the tick interval
 - **Persistent high score** — survives restarts within the same session
 - **Input buffering** — circular queue holds up to 4 ahead-queued turns
+=======
