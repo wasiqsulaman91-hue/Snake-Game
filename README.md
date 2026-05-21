@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Snake — DSA Edition 🐍
 
 A Snake game built in **C++17 + SFML**, written from the perspective of a
