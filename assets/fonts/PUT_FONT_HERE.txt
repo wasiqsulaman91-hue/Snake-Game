@@ -1,0 +1,5 @@
+Place Roboto-Regular.ttf here.
+Download from: https://fonts.google.com/specimen/Roboto
+
+The game will fall back to a system font (Arial / DejaVu Sans) if this file
+is absent, so it is optional.
